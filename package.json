@@ -1,0 +1,24 @@
+{
+  "name": "slider",
+  "version": "1.0.0",
+  "description": "Slider with Jquery Cycle 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irving-frias/Slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irving-frias/Slider/issues"
+  },
+  "homepage": "https://github.com/irving-frias/Slider#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-less": "^4.0.1",
+    "less": "^3.10.3"
+  }
+}
