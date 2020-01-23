@@ -17,7 +17,6 @@ function initSlideShows() {
 
       $(elem).cycle();
       $(innerSlideshowName).cycle();
-      $(innerSlideshowName).cycle('pause');
 
       $(backWardButtonClassName).on('click', function (ev) {
         ev.preventDefault();
